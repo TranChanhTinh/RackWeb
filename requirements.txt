@@ -1,1 +1,4 @@
-text     Flask     openpyxl     gunicorn
+
+Flask
+openpyxl
+gunicorn
